@@ -39,6 +39,8 @@ Create a username that you like.
 
 *Note:* This does not have to be your real name.
 
+**Ping me with your username on Discord!**
+
 ### Product Emails
 
 ![Get Product Emails](/res/free_software/github_signup_productupdates.png)
