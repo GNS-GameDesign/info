@@ -3,12 +3,6 @@ bye_message: "desin!"
 url: "https://gns-gamedesign.github.io"
 disqus: exoad
 
-# Header settings
-nick: "gjuniioor"
-mail:
-    domain: "protonmail"
-    ext: "ch"
-
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
