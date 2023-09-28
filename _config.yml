@@ -1,12 +1,14 @@
-header_pages:
-- FreeSoftware.md
+title: "GNS Game Design"
+bye_message: "desin!"
+url: "https://gns-gamedesign.github.io"
+disqus: exoad
 
-title: GNS Game Design
+# Header settings
+nick: "gjuniioor"
+mail:
+    domain: "protonmail"
+    ext: "ch"
 
-style: dark
-listen_for_clients_preferred_style: true
-
-footer: 'Copyright (C) Jack Meng (exoad) 2023'
-
+# Build settings
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
+permalink: /:categories/:title/
