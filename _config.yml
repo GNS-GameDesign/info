@@ -2,6 +2,7 @@ title: "GNS Game Design"
 bye_message: "desin!"
 url: "https://gns-gamedesign.github.io"
 disqus: exoad
+baseurl: "/info/"
 
 # Build settings
 markdown: kramdown
