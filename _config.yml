@@ -19,7 +19,7 @@ theme_config:
   show_description: true
   show_tags: true
   home:
-    title_projects: projects
+    title_projects: articles
     title_misc_list: details
     title_blog: updates
     title_old_projects: legacy
