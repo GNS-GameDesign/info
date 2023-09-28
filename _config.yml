@@ -16,7 +16,7 @@ theme_config:
   show_reading_time: true
   show_projects: true
   show_navbar: true
-  show_description: true
+  show_description: false
   show_tags: true
   home:
     title_projects: articles
