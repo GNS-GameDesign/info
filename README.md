@@ -1,4 +1,2 @@
-# info
-Informational Stuff on getting started
+Official home page for the Game Design Club at GNSHS
 
-Sign up to GitHub: [Click Here](free_software.md)
