@@ -1,0 +1,8 @@
+navbar_entries:
+  - title: discord
+    url: https://discord.gg/dZ2q3gaPjB
+
+project_entries:
+  - title: setup GitHub
+    url: ../free_software
+    desc: sign up for GitHub guide!
