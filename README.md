@@ -1,4 +1,4 @@
 # info
-Informational Stuffs on getting started
+Informational Stuff on getting started
 
-Sign up to GitHub: [Click Here](./FreeSoftware.md)
+Sign up to GitHub: [Click Here](free_software.md)
