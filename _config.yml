@@ -12,7 +12,7 @@ theme_config:
   appearance: "dark"
   appearance_toggle: true
   back_home_text: "home"
-  show_copyright: false
+  show_copyright: true
   show_reading_time: true
   show_projects: true
   show_navbar: true
