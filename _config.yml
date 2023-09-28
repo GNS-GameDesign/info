@@ -1,9 +1,9 @@
 title: "GNS Game Design"
-bye_message: "desin!"
+bye_message: "copyright (C) Jack Meng (exoad) 2023"
 url: "https://gns-gamedesign.github.io"
 disqus: exoad
 baseurl: "/info/"
+nick: "desin!"
 
-# Build settings
 markdown: kramdown
 permalink: /:categories/:title/
