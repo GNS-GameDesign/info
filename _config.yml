@@ -1,7 +1,8 @@
 title: Desin
 author: "GNS Game Design"
 url: "https://gns-gamedesign.github.io/info/"
-description: "Official landing page for the GNS Game Design Club"
+description: >
+  Official landing page for the GNS Game Design Club
 favicon: "./favicon.png"
 
 markdown: kramdown
@@ -13,3 +14,16 @@ theme_config:
   back_home_text: "home"
   show_copyright: false
   show_reading_time: true
+  show_projects: true
+  show_navbar: true
+  show_description: true
+  show_tags: true
+  home:
+    title_projects: projects
+    title_misc_list: details
+    title_blog: updates
+    title_old_projects: legacy
+  
+plugins:
+  - jekyll-feed
+  - jekyll-soopr-seo-tag
