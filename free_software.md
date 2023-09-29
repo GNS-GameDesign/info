@@ -7,8 +7,6 @@ This guide will show how to claim GitHub Pro and JetBrains products for free usi
 
 **If you have any questions, please ping Jack M on the [club Discord server](https://discord.gg/dZ2q3gaPjB)**.
 
-**Click the following dropdowns to get started to view the necessary steps.**
-
 # #1 GitHub sign up
 
 **IT IS HIGHLY RECOMMENDED YOU FOLLOW THIS GUIDE EXACTLY IF YOU HAVE NEVER USED GITHUB BEFORE**
