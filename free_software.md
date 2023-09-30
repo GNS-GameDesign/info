@@ -57,6 +57,8 @@ You have to go through with validating your email.
 
 ### Selecting your fields
 
+**If you did not get the following fields, head over to [this page](https://education.github.com/pack) and sign up from there** 
+
 ![Account target](/res/free_software/github_signup_accounttarget.png)
 
 You can select what you want, BUT for the ease of this guide, please sign up with the following parameters:
