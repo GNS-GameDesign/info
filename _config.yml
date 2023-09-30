@@ -3,7 +3,7 @@ author: Jack Meng
 url: "https://gns-gamedesign.github.io/info/"
 description: >
   Official landing page for the GNS Game Design Club
-favicon: "favicon.png"
+favicon: "./assets/images/favicon.png"
 
 markdown: kramdown
 remote_theme: abhinavs/moonwalk
