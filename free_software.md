@@ -104,7 +104,7 @@ Click on `add and verify...` and you should be led to a page, look for this bloc
 
 ![Add email](res/free_software/github_signup_add_email.png)
 
-Click under `Add email address` <kbd>Add</kbd> and put your SCHOOL EMAIL, the one that ends in `@student.gn.k12.ny.us`.
+Click under `Add email address` <kbd>Add</kbd> and put your SCHOOL EMAIL, which ends in `@student.gn.k12.ny.us`.
 
 It will ask you to verify the account. Go to your school email and verify the account. The email looks something like the following:
 
@@ -145,9 +145,9 @@ After that, **click <kbd>Continue</kbd>**
 
 ### Next form
 
-You might be prompted by your browser to allow GitHub to use your location. **You must allow in order for GitHub to verify the validity of your attendance at GNSHS**
+You might be prompted by your browser to allow GitHub to use your location. **You must allow for GitHub to verify the validity of your attendance at GNSHS**
 
-The next page is a page (I sadly do not have any pictures of this form) where you must submit an identification form. **Just take a picture of your SCHOOL ID that is clear and visible on the FRONT where it has your face.**
+The next page is a page (I sadly do not have any pictures of this form) where you must submit an identification form. **take a picture of your SCHOOL ID that is clear and visible on the FRONT where it has your face.**
 
 Then you should be able to press a button related to `Process my application`.
 
@@ -157,6 +157,6 @@ There are two possible results.
 
 ![Possible signup results](res/free_software/github_signup_results.png)
 
-**If you end up with a rejected, please contact exoad**
+**If you end up with a rejected, please get in touch with exoad**
 
 Let the application process in the meantime.
