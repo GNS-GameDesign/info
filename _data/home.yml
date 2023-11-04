@@ -9,3 +9,6 @@ project_entries:
   - title: jetbrains signup
     url: /info/jetbrains_signup
     desc: signup for a jetbrains account
+  - title: installing jetbrains
+    url: /info/install_jetbrains
+    desc: installing jetbrains on your device
