@@ -6,3 +6,6 @@ project_entries:
   - title: setup github
     url: /info/free_software
     desc: signup for github guide
+  - title: jetbrains signup
+    url: /info/jetbrains_signup
+    desc: signup for a jetbrains account
